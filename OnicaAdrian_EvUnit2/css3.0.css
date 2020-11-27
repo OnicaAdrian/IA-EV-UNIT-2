@@ -1,0 +1,73 @@
+.nume {
+	float: right;
+	background-color:lightblue;
+	border:2px solid black;
+	padding-top: 2px;
+	padding-right: 50px;
+	padding-bottom: 2px;
+	padding-left: 200px;
+	font-family: Arial,Arial, Helvetica, sans-serif;
+	color:grey;
+}
+.email{
+	position:relative;
+	top:75px;
+	left:400px;
+	float:right;
+	display:block;
+}
+.edit {
+	float: right;
+	position: relative;
+	top: 95px;
+	left: 600px;
+	font-style: italic;
+	color: grey;
+	text-decoration: underline;
+}
+table {
+	position:relative;
+	float: right;
+	top: 150px;
+	left: 900px;
+}
+.retea {
+	float: right;
+	position:relative;
+	top:185px;
+	font-style: italic;
+	color: grey;
+	text-decoration: underline;
+	background-color: lightblue;
+	border: 2px solid black;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-bottom: 175px;
+	padding-left: 275px;
+}
+.caracteristici {
+	position: relative;
+	top: 790px;
+	left:950px;
+	font-style: italic;
+	color: grey;
+	text-decoration: underline;
+}
+.resurse {
+
+	font-style: italic;
+	color: grey;
+	position:relative;
+	top:800px;
+	left:1300px;
+}
+ul {
+	position: relative;
+	top: 780px;
+	left: 950px;
+}
+ .slide{
+	 position:relative;
+	 top:800px;
+	 left:800px;
+ }
